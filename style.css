@@ -1,4 +1,5 @@
 .input_button_osinthe{
+  border: 1px solid black;
   border-radius: 9px;
   cursor: pointer;
 }
