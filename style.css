@@ -1,7 +1,6 @@
 .input_button_osinthe{
   background-color: gray;
   color: white;
-  radius: 25px;
-  border: 2px solid black;
+  border-radius: 15px;
   padding: 10px;
 }
